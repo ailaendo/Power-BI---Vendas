@@ -1,0 +1,55 @@
+📊 Dashboard de Vendas — Power BI
+
+📌 Sobre o projeto
+Este projeto consiste no desenvolvimento de um Dashboard de Vendas utilizando Power BI, com o objetivo de transformar dados de vendas em informações visuais que facilitem a análise do desempenho comercial.
+O projeto foi desenvolvido como parte do meu portfólio na área de Dados, aplicando conceitos de tratamento e transformação de dados, modelagem, criação de medidas em DAX e desenvolvimento de dashboards interativos.
+
+🎯 Objetivos
+
+O dashboard foi desenvolvido para permitir uma análise dos principais indicadores comerciais, possibilitando visualizar:
+- Faturamento total
+- Quantidade de vendas
+- Desempenho por vendedor
+- Desempenho por produto
+- Análise de clientes
+- Evolução das vendas ao longo do tempo
+- Comparação entre vendas e metas
+- Principais produtos e vendedores
+- Distribuição das vendas por diferentes dimensões
+
+🗂️ Fonte dos dados
+
+A base de dados utilizada neste projeto foi obtida a partir do Xperiun, onde disponibilizam base de dados gratuito (https://app.xperiun.com/curso/download-bases-de-dados).
+Os dados foram utilizados exclusivamente para fins de estudo e desenvolvimento de portfólio.
+
+🛠️ Ferramentas utilizadas
+- Power BI: desenvolvimento do dashboard e visualização dos dados
+- Power Query: limpeza, tratamento e transformação dos dados
+- DAX: criação de medidas e indicadores
+- Excel: organização e armazenamento da base de dados
+- Canva: desenvolvimento do layout e identidade visual
+- GitHub: documentação e disponibilização do projeto
+
+🔄 Tratamento e preparação dos dados
+Antes da criação do dashboard, os dados passaram por uma etapa de preparação utilizando o Power Query.
+Entre os procedimentos realizados estão:
+- Verificação e correção dos tipos de dados
+- Padronização de informações
+- Tratamento de valores nulos
+- Organização das tabelas
+- Criação e organização das dimensões
+- Preparação dos dados para o modelo no Power BI
+
+💡 Principais aprendizados
+Durante o desenvolvimento deste projeto, foram aplicados conceitos relacionados a:
+- ETL e preparação de dados
+- Power Query
+- Modelagem dimensional
+- Relacionamentos entre tabelas
+- DAX
+- Indicadores e KPIs
+- Visualização de dados
+- Design de dashboards
+- Storytelling com dados
+- Análise de desempenho comercial
+- Star Schema
